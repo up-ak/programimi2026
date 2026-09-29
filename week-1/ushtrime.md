@@ -31,7 +31,7 @@ int main() {
 - **`main()`**: Pika hyrëse e programit - nga këtu fillon ekzekutimi
 - **`return 0;`**: Tregon që programi ka përfunduar me sukses
 
-## 2. Output në Ekran (cout)
+## 2. Output në Ekran (cout dhe endl)
 
 ### cout - Output në Ekran
 
@@ -41,6 +41,16 @@ int main() {
 ```cpp
 cout << "Përshëndetje Botë!" << endl;
 cout << "Numri është: " << 42 << endl;
+```
+
+### endl dhe Formatimi
+
+- **`endl`**: Përdoret për të vendosur një rresht të ri dhe për të pastruar buffer-in
+- **`\n`**: Alternativë më e shpejtë për rresht të ri
+
+```cpp
+cout << "Rreshti i parë" << endl;
+cout << "Rreshti i dytë\n";
 ```
 
 ## 3. Shembuj Praktikë
