@@ -58,4 +58,4 @@ for (int i = 1; i <= n; i++) {
    // Gjenero serinë: 0, 1, 1, 2, 3, 5, 8, 13, ...
    ```
 
-4. Kontrolli nese numri i lexuar `n` eshte numer i thjeshtë
+4. D.SH. Me unazen `for`. Kontrolli nese numri i lexuar `n` eshte numer i thjeshtë
